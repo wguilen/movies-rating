@@ -1,0 +1,22 @@
+body
+{
+    font-family: 'Open Sans', sans-serif !important;
+    padding-top: 70px;
+}
+
+.page-title
+{
+    text-align: center;
+    padding: 5px;
+    border-bottom: 1px dashed #CCC;
+}
+
+.content
+{
+    padding: 15px;
+}
+
+.bootstrap-tagsinput
+{
+    width: 100%;
+}
